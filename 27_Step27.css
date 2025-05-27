@@ -1,0 +1,5 @@
+/* ... previous CSS ... */
+
+@media (max-width: 768px) {
+  /* CSS rules for screens 768px and smaller will go here */
+}

@@ -1,0 +1,5 @@
+/* ... previous CSS ... */
+
+@media (min-width: 769px) and (max-width: 1199px) {
+  /* CSS rules for screens between 769px and 1199px will go here */
+}
